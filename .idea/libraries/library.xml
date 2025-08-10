@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-spring-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/oauth-signature-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-core-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-guice-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-multipart-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/javax.wsdl_1.6.2.v201012040545.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/oauth-server-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/org.apache.commons.logging_1.0.4.v201101211617.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/GetTRM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/oauth-client-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-servlet-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-json-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-apache-client-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-simple-server-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-atom-abdera-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-server-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jersey-client-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/jackson-jaxrs-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

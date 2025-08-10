@@ -1,0 +1,40 @@
+{
+    "document": {
+        "id": 2372
+    },
+    "date": "2023-05-24",
+    "customer": {
+        "identification": "28211179",
+        "branch_office": "0"
+    },
+    "seller": 62,
+    "items": [
+        {
+            "code": "Code-1",
+            "description": "Producto de prueba",
+            "quantity": 1,
+            "taxes": [
+                {
+                    "id": 1270
+                }
+            ],
+            "taxed_price": 1000
+        }
+    ],
+    "stamp": {
+            "send": true
+        },
+    "mail": {
+            "send": true
+        },
+    "observations": "Observaciones",
+    "payments": [
+        {
+            "id": 542,
+            "value": 1000,
+            "due_date": "2023-05-31"
+        }
+    ]
+}
+
+
